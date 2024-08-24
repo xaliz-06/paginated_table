@@ -14,5 +14,5 @@ The Table is Paginated. As the API does not allow multiple filters, a second fil
 
 ## Screenshots
 
-[screenshot_1](https://postimg.cc/bSnS4XWC)
-[screenshot_2](https://postimg.cc/ftp0HW2S)
+[![screenshot_1](https://i.postimg.cc/HnZ0cd2g/Screenshot-20240824-190120.png)](https://postimg.cc/bSnS4XWC)
+[![screenshot_2](https://i.postimg.cc/rsFCwK5j/Screenshot-20240824-190208.png)](https://postimg.cc/ftp0HW2S)
